@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+https://ecstatic-panini-49c601.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
